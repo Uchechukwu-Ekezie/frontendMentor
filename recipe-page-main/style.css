@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap');
+
+body{
+    width: 1440px;
+    margin: 15px;
+    font-family: 'Young Serif', serif;
+    font-family: 'Outfit', sans-serif;
+    background-color:hsl(30, 54%, 90%);
+    
+}
+.container{
+    height: 1280px;
+    width: 520px;
+    background-color: hsl(330, 100%, 98%);
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: space-around;
+    /* text-align: center; */
+    margin-left: 700px;
+    border-radius: 10px;
+}
+.container img{
+    width: 470px;
+    margin: 20px;
+    border-radius: 20px;
+    /* margin-left: 20px; */
+}
+.container h1{
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 30px;
+    font-family: 'Young Serif', serif;
+}
+.container h2{
+    font-size: 11px;
+    font-weight: 400;
+    margin: 10px;
+}
+
+.iii{
+    color:  hsl(30, 10%, 34%);
+    font-weight: 800;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.one{
+    margin-top: -10px;
+    font-size: 12px;  
+    color: hsl(24, 5%, 18%);
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.pp{
+    margin-bottom: 5px;
+}
+.two{
+    font-family: 'Young Serif', serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 20px;
+    color: hsl(30, 10%, 34%);
+}
+.ttt{
+    margin-left: 25px;
+    margin-top: -10px;
+}
+.oo{
+    margin: 5px;
+    font-size: 12px;
+    color:  hsl(30, 10%, 34%);
+}
+.line{
+    height: 1px;
+    width: 470px;
+    background-color: gray;
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+.three{
+    font-family: 'Young Serif', serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 20px;
+    color: hsl(30, 10%, 34%);
+}
+ol{
+    margin: 5px;
+    font-size: 12px;
+    color:  hsl(30, 10%, 34%);
+}
+li{
+    margin: 10px;
+}
+.four{
+    font-family: 'Young Serif', serif;
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 20px;
+    color: hsl(30, 10%, 34%);
+}
+h4{
+    font-size: 12px;
+    color:  hsl(30, 10%, 34%);
+    font-weight: 500;
+    margin-left: 22px; 
+    margin-top: -12px;
+}
+.this{
+    display: flex;
+    margin-left: 50px;
+    margin-top: -15px;
+    margin-bottom: -19px;
+    color: hsl(30, 10%, 34%);
+}
+.tab{
+    color:  hsl(30, 10%, 34%);;
+}
+.this h6{
+    /* margin-left: 20px; */
+    margin-right: 250px;  
+    font-size: 12px;
+    font-weight: 500;
+}
+.tata{
+    width: 480px;
+}
+#one{
+    margin-right: 265px;
+}
+#two{
+    margin-right: 255px;
+}
+#the{
+    margin-right: 275px;
+}
+/* .this .line{
+    height: 1px;
+    width: 470px;
+    background-color: gray;
+    margin-top: -20px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+} */
